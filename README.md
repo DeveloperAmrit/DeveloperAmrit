@@ -1,13 +1,13 @@
-# Suyash Thakur
-> *Developer. Creator. Problem Solver.*
+# Amrit Kumar Yadav
+> *Developer. Hacker. Problem Solver.*
 
 <div align="center">
   
-  ![Profile Banner](https://github.com/DeveloperAmrit/DeveloperAmrit/blob/main/b6cb4bdfda210a55fbf6c0d70b4a5a0af8891e10b39cdf69c4ac720f3c472fed.0.png)
+  ![Profile Banner](https://pbs.twimg.com/profile_banners/1857413090197049344/1744489924/1500x500)
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAmrit&show_icons=true&theme=nightowl&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=✨%20Suyash's%20GitHub%20Universe" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAmrit&show_icons=true&theme=nightowl&hide_border=true&border_radius=15&count_private=true&include_all_commits=true&custom_title=✨%20Amrit's%20GitHub%20Universe" alt="GitHub Stats" />
   
   <br>
   
@@ -26,7 +26,7 @@
 ## 🚀 Journey Through Tech
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;AI+%26+Computer+Vision+Explorer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Development+Enthusiast;AI+%26+Computer+Vision+Explorer;Problem+Solver;Continuous+Learner;Ethical+Hacker;" alt="Typing SVG" />
 </div>
 
 ## 🧠 Skills & Technologies
@@ -86,10 +86,10 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=sql-csv&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 1" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=IITJInstiWebApp&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 1" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=cosine-similarity-threshold&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 2" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=volunteersiitj&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 2" />
   </a>
 </div>
 
@@ -105,7 +105,7 @@
   <a href="https://www.linkedin.com/in/DeveloperAmrit-06777016a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://suyashthakurblog.hashnode.dev/" target="_blank">
+  <a href="https://hashnode.com/@DevepolerAmrit" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="30"/>
   </a>
   <a href="https://github.com/DeveloperAmrit" target="_blank">
