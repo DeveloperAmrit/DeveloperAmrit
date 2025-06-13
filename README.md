@@ -49,7 +49,7 @@
 
   <br>
   <!-- Fullstack/MERN -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Fullstack%20%and%20Frameworks&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Fullstack%20and%20Frameworks&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
   
   ![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
@@ -61,7 +61,7 @@
 
   <br>
   <!-- Backend & Languages -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Languages%20%26%20Backend&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Languages%20and%20Backend&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
 
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000)
@@ -76,7 +76,7 @@
 
   <br>
   <!-- DevOps & Tools -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=DevOps%20%26%20Tools&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=DevOps%20and%20Tools&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
 
   ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000)
@@ -90,7 +90,7 @@
 
   <br>
   <!-- Robotics & Embedded -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Robotics%20%26%20Embedded&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Robotics%20and%20Embedded&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
 
   ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=000)
@@ -100,7 +100,7 @@
 
   <br>
   <!-- Game Development & Vision -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Game%20Dev%20%26%20Vision&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Game%20Dev%20and%20Vision&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
 
   ![Unreal Engine](https://img.shields.io/badge/-Unreal-000?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=000)
@@ -109,7 +109,7 @@
 
   <br>
   <!-- Security & Networking -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Cybersecurity%20%26%20Networking&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Cybersecurity%20and%20Networking&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
 
   ![BeEF](https://img.shields.io/badge/-BeEF-000?style=for-the-badge&logo=beef&logoColor=white&labelColor=000)
