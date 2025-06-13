@@ -32,55 +32,91 @@
 ## 🧠 Skills & Technologies
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Frontend%20Wizardry&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <!-- Frontend Development -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Frontend%20Development&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000)
-  ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=000)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000)
-  ![Svelte](https://img.shields.io/badge/-Svelte-000?style=for-the-badge&logo=svelte&logoColor=FF3E00&labelColor=000)
   ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000)
   ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=000)
-  
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=000)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000)
+  ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000)
+  ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge&logo=radix-ui&logoColor=white&labelColor=000)
+  ![emailjs](https://img.shields.io/badge/-emailjs-000?style=for-the-badge&logo=email&logoColor=white&labelColor=000)
+  ![webRTC](https://img.shields.io/badge/-WebRTC-000?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=000)
+
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Backend&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <!-- Fullstack/MERN -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Fullstack%20%26%20Frameworks&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
   
+  ![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000)
-  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000)
-  ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=000)
-  ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000)
   ![Express.js](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white&labelColor=000)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000)
+  ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=white&labelColor=000)
+  ![clerk](https://img.shields.io/badge/-Clerk-000?style=for-the-badge&logo=clerk&logoColor=white&labelColor=000)
+
+  <br>
+  <!-- Backend & Languages -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Languages%20%26%20Backend&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <br>
+
+  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000)
+  ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=white&labelColor=000)
+  ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000)
+  ![YOLO](https://img.shields.io/badge/-YOLO-000?style=for-the-badge&logo=openai&logoColor=white&labelColor=000)
+  ![dlib](https://img.shields.io/badge/-dlib-000?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
+  ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=000)
+  ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000)
+  ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=white&labelColor=000)
   ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000)
-  ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=000)
-  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?style=for-the-badge&logo=elasticsearch&logoColor=005571&labelColor=000)
-  
+
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=DevOps%20And%20Tools&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <!-- DevOps & Tools -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=DevOps%20%26%20Tools&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
-  
-  ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
+
   ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000)
-  ![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=000)
-  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000)
-  ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000)
-  ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=000)
-  
+  ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
+  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900&labelColor=000)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=000)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=000)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000)
+  ![VMWare](https://img.shields.io/badge/-VMWare-000?style=for-the-badge&logo=vmware&logoColor=607078&labelColor=000)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=44A833&labelColor=000)
+
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Game%20Dev%20And%20More&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <!-- Robotics & Embedded -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Robotics%20%26%20Embedded&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
-  
-  ![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=000)
-  ![Mocha](https://img.shields.io/badge/-Mocha-000?style=for-the-badge&logo=mocha&logoColor=8D6748&labelColor=000)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=000)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=000)
-  ![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000)
+
+  ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=000)
+  ![ROS2](https://img.shields.io/badge/-ROS2-000?style=for-the-badge&logo=ros&logoColor=white&labelColor=000)
+  ![ArduPilot](https://img.shields.io/badge/-ArduPilot-000?style=for-the-badge&logo=airplayaudio&logoColor=white&labelColor=000)
+  ![Gazebo](https://img.shields.io/badge/-Gazebo-000?style=for-the-badge&logo=gazebo&logoColor=white&labelColor=000)
+
+  <br>
+  <!-- Game Development & Vision -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Game%20Dev%20%26%20Vision&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <br>
+
   ![Unreal Engine](https://img.shields.io/badge/-Unreal-000?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=000)
+  ![SDL2](https://img.shields.io/badge/-SDL2-000?style=for-the-badge&logo=iconify&logoColor=white&labelColor=000)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=000)
+
+  <br>
+  <!-- Security & Networking -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Cybersecurity%20%26%20Networking&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <br>
+
+  ![BeEF](https://img.shields.io/badge/-BeEF-000?style=for-the-badge&logo=beef&logoColor=white&labelColor=000)
+  ![Network Hacking](https://img.shields.io/badge/-Network%20Hacking-000?style=for-the-badge&logo=wifi&logoColor=white&labelColor=000)
+  ![Ngrok](https://img.shields.io/badge/-Ngrok-000?style=for-the-badge&logo=ngrok&logoColor=white&labelColor=000)
 </div>
+
 
 ## 🌟 Featured Projects
 
