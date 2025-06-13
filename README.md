@@ -89,7 +89,7 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=IITJInstiWebApp&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 1" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=volunteersiitj&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 2" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeveloperAmrit&repo=Attensee&theme=nightowl&hide_border=true&show_icons=true&border_radius=15" width="49%" alt="Featured Project 2" />
   </a>
 </div>
 
