@@ -73,6 +73,7 @@
   ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=000)
   ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=white&labelColor=000)
   ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000)
+  ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=000)
 
   <br>
   <!-- DevOps & Tools -->
