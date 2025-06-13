@@ -49,7 +49,7 @@
 
   <br>
   <!-- Fullstack/MERN -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Fullstack%20%26%20Frameworks&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Fullstack%20%and%20Frameworks&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
   
   ![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
