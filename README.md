@@ -42,7 +42,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000)
   ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000)
   ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=for-the-badge&logo=radix-ui&logoColor=white&labelColor=000)
   ![emailjs](https://img.shields.io/badge/-emailjs-000?style=for-the-badge&logo=email&logoColor=white&labelColor=000)
   ![webRTC](https://img.shields.io/badge/-WebRTC-000?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=000)
@@ -53,6 +52,7 @@
   <br>
   
   ![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000)
   ![Express.js](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white&labelColor=000)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000)
