@@ -32,9 +32,11 @@
 ## 🧠 Skills & Technologies
 
 <div align="center">
+  
+  <!-- Cloud Computing -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Cloud%20Computing&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
-  <!-- Cloud Computing -->
+  
   ![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
   ![AWS Developer Associate](https://img.shields.io/badge/-AWS%20Developer%20Associate-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
   ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
