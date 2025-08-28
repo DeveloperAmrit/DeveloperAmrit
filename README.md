@@ -32,6 +32,16 @@
 ## 🧠 Skills & Technologies
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Cloud%20Computing&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <br>
+  <!-- Cloud Computing -->
+  ![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
+  ![AWS Developer Associate](https://img.shields.io/badge/-AWS%20Developer%20Associate-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
+  ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
+  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900&labelColor=000)
+  ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4&labelColor=000)
+
+  <br>
   <!-- Frontend Development -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Frontend%20Development&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
@@ -81,8 +91,6 @@
   <br>
 
   ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000)
-  ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
-  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900&labelColor=000)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=000)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=000)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000)
@@ -90,6 +98,7 @@
   ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=44A833&labelColor=000)
 
   <br>
+  
   <!-- Robotics & Embedded -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Robotics%20and%20Embedded&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
