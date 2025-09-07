@@ -37,11 +37,11 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=Cloud%20Computing&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
   
-  ![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
-  ![AWS Developer Associate](https://img.shields.io/badge/-AWS%20Developer%20Associate-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
-  ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
-  ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900&labelColor=000)
+  ![AWS Solutions Architect](https://img.shields.io/badge/-AWS%20Solutions%20Architect-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000)
+  ![AWS Developer Associate](https://img.shields.io/badge/-AWS%20Developer%20Associate-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000)
+  ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000)
   ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4&labelColor=000)
+  ![Kafka](https://img.shields.io/badge/-Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=231F20&labelColor=000)
 
   <br>
   <!-- Frontend Development -->
